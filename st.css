@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.image {
+    width: 800px;
+    height: 500px;
+    background-image: url(lambo.png);
+
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right
+
+
+
+
+
+}

@@ -1,0 +1,14 @@
+.cta {
+    background-color: blue;
+}
+
+.cta:hover {
+    background-color: red;
+}
+
+div {
+    background-color: red;
+    max-width: 800px;
+    width: 80%;
+    min-height: 10px;
+}
